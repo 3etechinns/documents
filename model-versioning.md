@@ -82,7 +82,7 @@ Content-Encoding: joblib
 Numerical-Columns: sub_grade_num,short_emp,emp_length_num,dti,payment_inc_ratio,delinq_2yrs,delinq_2yrs_zero,inq_last_6mths,last_delinq_none,last_major_derog_none,open_acc,pub_rec,pub_rec_zero,revol_util
 Test-Score: 0.811846431485
 ```
-#### Loading a model from the project's model repository
+#### Loading a Model From The Project's Model Repository
 The command `roro models` lists all models avaliable in the project's model repository. Any of the models can be loaded from the project's repository as follows
 
 ```
